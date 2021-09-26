@@ -1,4 +1,3 @@
-# SatyanarayanBhati_AlgorithmsAssignmentSolution
 
 Part 1-  MasterTheorem Solution
 
